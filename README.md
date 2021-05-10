@@ -1,4 +1,4 @@
-# Week 7: Picky, The Food Identifier
+# Picky, The Food Identifier
 
 ![main_image](readme_img/main.png)
 
